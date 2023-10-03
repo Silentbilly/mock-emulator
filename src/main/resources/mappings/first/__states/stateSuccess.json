@@ -1,0 +1,11 @@
+{
+  "scenarioName": "First positive scenario",
+  "newScenarioState": "Started",
+  "request": {
+    "method": "GET",
+    "url": "/state/success"
+  },
+  "response": {
+    "status": 200
+  }
+}
